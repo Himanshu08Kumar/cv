@@ -15,6 +15,9 @@ th, td{
 ul{
     list-style-type: none;
 }
+li{
+    padding: 0px 2px;
+}
 .img{
     border: 1px solid yellow;
     box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
